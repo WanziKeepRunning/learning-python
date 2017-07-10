@@ -24,7 +24,7 @@
 
 ## 入门1：3天
 
-1. 安装python3环境。了解IDEL
+1. 安装python3环境。了解IDLE
 https://www.python.org/downloads/
 2. 安装pycharm ide。了解基本的使用：创建工程，查看代码，查找，运行，格式化代码等等
 3. 基本语法知识点：基本类型（特别是字典和列表），分支循环，函数，模块
